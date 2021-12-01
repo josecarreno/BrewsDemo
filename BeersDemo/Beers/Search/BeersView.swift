@@ -81,7 +81,7 @@ final class BeersView: UIView {
         backgroundColor = .darkGray
         collectionView.backgroundColor = .background
 
-        searchTextField.placeholder = "Enter some food"
+        searchTextField.placeholder = "Enter some food, e.g: 'carne asada'"
         searchTextField.autocorrectionType = .no
         searchTextField.backgroundColor = .background
     }
